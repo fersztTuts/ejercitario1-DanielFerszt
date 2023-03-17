@@ -1,0 +1,23 @@
+{
+  "name": "ejercitario1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "jest -t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielFerszt/ejercitario1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielFerszt/ejercitario1/issues"
+  },
+  "homepage": "https://github.com/DanielFerszt/ejercitario1#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
