@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "last element",
+      "setup": "npm install",
+      "run": "npm test \"last element\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 5
+    },
+    {
+      "name": "push",
+      "setup": "npm install",
+      "run": "npm test \"push\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 5
+    }
+  ]
+}
